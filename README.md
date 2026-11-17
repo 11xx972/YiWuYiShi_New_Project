@@ -9,4 +9,4 @@
 | Loooong | 图片轮播展示页面 | N/A | N/A | N/A | [查看](https://linannyu.github.io/YiWuYiShi_New_Project/Loooong/index.html) |
 | Lun-Bo001 | 图片轮播样式示例 | N/A | N/A | N/A | [查看](https://linannyu.github.io/YiWuYiShi_New_Project/Lun-Bo001/index.html) |
 | SAVED-LB | 保存的图片轮播组件 | N/A | N/A | N/A | [查看](https://linannyu.github.io/YiWuYiShi_New_Project/SAVED-LB/index.html) |
-| zhong | 交互式时钟页面 | N/A | N/A | N/A | [查看](https://linannyu.github.io/YiWuYiShi_New_Project/zhong/index.html) |
+| zhong | 交互式时钟页面 | N/A | .N/A | N/A | [查看](https://linannyu.github.io/YiWuYiShi_New_Project/zhong/index.html) |
